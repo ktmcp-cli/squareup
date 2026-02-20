@@ -1,0 +1,5 @@
+<svg width="800" height="120" xmlns="http://www.w3.org/2000/svg">
+  <rect width="800" height="120" fill="#1a1a2e"/>
+  <text x="400" y="60" font-family="Arial, sans-serif" font-size="42" fill="#00d9ff" text-anchor="middle" font-weight="bold">Square CLI</text>
+  <text x="400" y="90" font-family="Arial, sans-serif" font-size="16" fill="#888" text-anchor="middle">Payments, Customers, Orders & Locations</text>
+</svg>
